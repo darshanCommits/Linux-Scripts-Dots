@@ -1,4 +1,4 @@
-[submodule "linux-config"]
+[submodule "Linux-Scripts-Dots"]
     path = config
     url = /home/greeed/.config
 [submodule "linux-scripts"]
