@@ -1,0 +1,10 @@
+[submodule "linux-config"]
+    path = config
+    url = /home/greeed/.config
+[submodule "linux-scripts"]
+	path = linux-scripts
+	url = https://github.com/darshanCommits/linux-scripts
+
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/darshanCommits/dotfiles
