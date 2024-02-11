@@ -1,10 +1,10 @@
 # Screenshots
 
-![ss1]("ss/ss1")  
-![ss2]("ss/ss2")  
-![ss3]("ss/ss3")  
-![ss4]("ss/ss4")  
-
+![ss1](https://github.com/darshanCommits/Linux-Scripts-Dots/assets/104432537/ba050245-5431-4641-b989-6848d943b934)
+![ss2](https://github.com/darshanCommits/Linux-Scripts-Dots/assets/104432537/1a96a16d-3b3a-4f62-9714-40f8878a901f)
+![ss3](https://github.com/darshanCommits/Linux-Scripts-Dots/assets/104432537/b403a3a7-f36d-4b58-b57d-92f750b110c9)
+![ss4](https://github.com/darshanCommits/Linux-Scripts-Dots/assets/104432537/3b01adca-fb22-46f1-8980-9953cf7fbfed)
+![ss5](https://github.com/darshanCommits/Linux-Scripts-Dots/assets/104432537/4dc82813-32a9-45b0-836c-9e8c60afc5fe)
 
 # Dependencies
 ### Shell
