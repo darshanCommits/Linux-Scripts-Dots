@@ -1,3 +1,6 @@
+Archived.
+[Go to here](https://github.com/darshanCommits/nix-dots)
+
 # Screenshots
 
 ![ss1](https://github.com/darshanCommits/Linux-Scripts-Dots/assets/104432537/ba050245-5431-4641-b989-6848d943b934)
